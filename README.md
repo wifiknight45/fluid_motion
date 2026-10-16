@@ -28,7 +28,7 @@ Install dependencies:
 pip install pygame numpy
 
 Run the script:
-python fluid_visualizer.py
+python visualizer.py
 
 Command Line Options
 
