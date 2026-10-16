@@ -1,6 +1,10 @@
-Interactive Evolving Fluid Visualizer
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/pygame-2.0%2B-green?logo=pygame&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-required-013243?logo=numpy&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
-Overview
+
 This is a multi-mode interactive visualizer built with Python, Pygame, and NumPy. It generates fluid trigonometric interference patterns that evolve continuously. Each mode features a unique flow pattern, color palette, and pace. In AUTO mode, the visualizer synchronizes with your system clock and smoothly crossfades between moods:
 
 Sunrise from 05:00 to 08:00
