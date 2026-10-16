@@ -23,12 +23,12 @@ pygame version 2.0 or higher
 
 numpy
 
-Installation and Running
-Install dependencies:
-pip install pygame numpy
+bash installation/run
+git clone https://github.com/wifiknight45/fluid_motion.git
+cd fluid_motion
+pip install -r requirements.txt
+python3 visualizer.py
 
-Run the script:
-python visualizer.py
 
 Command Line Options
 
@@ -48,11 +48,11 @@ RIGHT, LEFT, or SPACE: Switch to the next, previous, or next mode
 
 Keys 1 through 7: Jump directly to a specific mode and turn auto mode off
 
-A key: Toggle AUTO time-of-day mode
+A key: toggle AUTO time-of-day mode
 
-UP or DOWN: Speed up or slow down the animation pace
+UP or DOWN: speed up or slow down the animation pace
 
-P key: Pause or resume the simulation
+P key: pause or resume the simulation
 
 S key: Save a PNG screenshot of the current frame
 
